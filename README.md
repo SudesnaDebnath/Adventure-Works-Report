@@ -15,7 +15,7 @@ They gave you a **folder of raw data csv files**, which contain information abou
 
 
 ###### 1. Connect and Transform the Raw Data
-Useing **Query Editing Tools** in PowerBI **Transform the raw data in the back-end, and 
+Useing **Query Editing Tools** in **PowerBI **Transform the raw data in the back-end, and 
 organized them before loading data into front-end of PowerBI 
 
 ###### 2. Build a Relational Data Model
